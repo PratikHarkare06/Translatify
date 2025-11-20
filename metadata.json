@@ -1,0 +1,7 @@
+{
+  "name": "Translatify",
+  "description": "A language learning app that provides a real-time conversational AI partner for practice, powered by the Gemini 2.5 Native Audio (Live API).",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
